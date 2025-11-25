@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Coin
+  - Health
+  - Ground
+  - Candy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Coin
+  - Projectile
+  - Player
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4268880749
+    locked: 0
+  - name: Items
+    uniqueID: 2311694767
+    locked: 0
+  - name: Player
+    uniqueID: 8770089
+    locked: 0
+  - name: Enemy
+    uniqueID: 3954797471
+    locked: 0
+  m_RenderingLayers:
+  - Default
