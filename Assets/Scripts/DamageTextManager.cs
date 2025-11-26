@@ -38,22 +38,56 @@ public class DamageTextManager : MonoBehaviour
     /// </summary>
     void CreateDamageTextPrefab()
     {
-        // Create GameObject for prefab
-        damageTextPrefab = new GameObject("DamageTextPrefab");
+        Debug.Log("DamageTextManager: Attempting to create runtime damage text prefab...");
 
-        // Add TextMeshPro component
-        TextMeshPro tmp = damageTextPrefab.AddComponent<TextMeshPro>();
-        tmp.fontSize = 4;
-        tmp.alignment = TextAlignmentOptions.Center;
-        tmp.sortingOrder = 100; // Render on top
+        try
+        {
+            // Create GameObject for prefab
+            damageTextPrefab = new GameObject("DamageTextPrefab");
 
-        // Add DamageFloatText component
-        damageTextPrefab.AddComponent<DamageFloatText>();
+            // Add TextMeshPro component (world space)
+            TextMeshPro tmp = damageTextPrefab.AddComponent<TextMeshPro>();
 
-        // Don't set parent and keep it as a prefab reference
-        damageTextPrefab.SetActive(false);
+            if (tmp == null)
+            {
+                Debug.LogError("DamageTextManager: Failed to add TextMeshPro component! Make sure TextMesh Pro is imported: Window > TextMeshPro > Import TMP Essential Resources");
+                Destroy(damageTextPrefab);
+                damageTextPrefab = null;
+                return;
+            }
 
-        Debug.Log("DamageTextManager: Created runtime damage text prefab");
+            // Configure TextMeshPro
+            tmp.fontSize = 4;
+            tmp.alignment = TextAlignmentOptions.Center;
+            tmp.sortingOrder = 100; // Render on top
+            tmp.color = Color.white;
+            tmp.text = "0";
+
+            // Add DamageFloatText component
+            DamageFloatText floatText = damageTextPrefab.AddComponent<DamageFloatText>();
+
+            if (floatText == null)
+            {
+                Debug.LogError("DamageTextManager: Failed to add DamageFloatText component!");
+                Destroy(damageTextPrefab);
+                damageTextPrefab = null;
+                return;
+            }
+
+            // Don't set parent and keep it as a prefab reference
+            damageTextPrefab.SetActive(false);
+
+            Debug.Log("DamageTextManager: Successfully created runtime damage text prefab!");
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("DamageTextManager: Exception while creating prefab: " + e.Message);
+            if (damageTextPrefab != null)
+            {
+                Destroy(damageTextPrefab);
+                damageTextPrefab = null;
+            }
+        }
     }
 
     /// <summary>
