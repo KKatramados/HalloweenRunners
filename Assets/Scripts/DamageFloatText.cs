@@ -5,7 +5,7 @@ using TMPro;
 public class DamageFloatText : MonoBehaviour
 {
     [Header("Animation Settings")]
-    public float floatSpeed = 1.5f;
+    public float floatSpeed = 3.5f;
     public float lifetime = 1.5f;
     public float fadeSpeed = 1.0f;
     public float randomXOffset = 0.3f;
