@@ -9,6 +9,10 @@ public class DamageTextManager : MonoBehaviour
     [Header("Prefab Settings")]
     public GameObject damageTextPrefab;
 
+    [Header("Rendering Settings")]
+    public string sortingLayerName = "Default";
+    public int sortingOrder = 100;
+
     [Header("Critical Hit Settings")]
     public float criticalHitChance = 0.15f; // 15% chance for critical hit
 
@@ -59,7 +63,15 @@ public class DamageTextManager : MonoBehaviour
             // Configure TextMeshPro
             tmp.fontSize = 4;
             tmp.alignment = TextAlignmentOptions.Center;
-            tmp.sortingOrder = 100; // Render on top
+
+            // Set sorting layer and order
+            var renderer = tmp.GetComponent<MeshRenderer>();
+            if (renderer != null)
+            {
+                renderer.sortingLayerName = sortingLayerName;
+                renderer.sortingOrder = sortingOrder;
+            }
+
             tmp.color = Color.white;
             tmp.text = "0";
 
