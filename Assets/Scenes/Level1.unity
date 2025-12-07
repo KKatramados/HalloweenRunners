@@ -5020,7 +5020,7 @@ Transform:
   m_GameObject: {fileID: 424530700}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 32.3203, y: -2.8118, z: 0}
+  m_LocalPosition: {x: 32.3203, y: -2.81, z: 0}
   m_LocalScale: {x: 3.3363957, y: 0.6363781, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5699,6 +5699,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 708958873}
   - {fileID: 479818322}
   - {fileID: 1100965622}
   - {fileID: 1809735512}
@@ -5706,7 +5707,6 @@ Transform:
   - {fileID: 1915549803}
   - {fileID: 286748551}
   - {fileID: 609851236}
-  - {fileID: 708958873}
   - {fileID: 424530703}
   - {fileID: 1107150242}
   - {fileID: 357716354}
@@ -26143,7 +26143,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 2
-      m_TileSpriteIndex: 2
+      m_TileSpriteIndex: 6
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -26982,8 +26982,8 @@ Tilemap:
   - first: {x: 50, y: -7, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 2
-      m_TileSpriteIndex: 2
+      m_TileIndex: 7
+      m_TileSpriteIndex: 7
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -27635,7 +27635,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: fece76b0207f8424ebc11f0c82f562b1, type: 2}
   - m_RefCount: 7
     m_Data: {fileID: 11400000, guid: 054d969f26ff8a44e916491497e07693, type: 2}
-  - m_RefCount: 2
+  - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: d2458db1001fc7b4f9b8ab81957d0c31, type: 2}
   - m_RefCount: 11
     m_Data: {fileID: 11400000, guid: 8ceb9873d74d84b4bacfd3a795854222, type: 2}
@@ -27645,24 +27645,24 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 3d784be3d9df29247b02535621c90962, type: 2}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 101
+  - m_RefCount: 102
     m_Data: {fileID: 11400000, guid: 2ebee47a73dde504e9d30e33d1a8ae83, type: 2}
   m_TileSpriteArray:
   - m_RefCount: 4
     m_Data: {fileID: 952226409730516583, guid: 69dc687627c6e954896b389221a13715, type: 3}
   - m_RefCount: 7
     m_Data: {fileID: -39597838720242200, guid: 9377926ec09b14646b1dd71ab0a35558, type: 3}
-  - m_RefCount: 2
-    m_Data: {fileID: 8201652134429347638, guid: 95947b02e5c829248899a78ff43a2b1a, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 11
     m_Data: {fileID: -3235226237875801520, guid: f2644a8b9c91d6846be889ad026be074, type: 3}
   - m_RefCount: 0
     m_Data: {fileID: 0}
   - m_RefCount: 48
     m_Data: {fileID: 1949804679940644838, guid: 196b5bac3bda35f44a95519350509db3, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 101
+  - m_RefCount: 1
+    m_Data: {fileID: 8201652134429347638, guid: 95947b02e5c829248899a78ff43a2b1a, type: 3}
+  - m_RefCount: 102
     m_Data: {fileID: 1056598886983270850, guid: 8f8813f4b6a4ec64eb731cf131748cde, type: 3}
   m_TileMatrixArray:
   - m_RefCount: 173
@@ -28801,6 +28801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EnemySkeleton
       objectReference: {fileID: 0}
+    - target: {fileID: 8170120569839652452, guid: 0720e2a6fb5038d488b5a6c9f0836e58, type: 3}
+      propertyPath: roomNumber
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29127,6 +29131,10 @@ PrefabInstance:
     - target: {fileID: 8123096651289430854, guid: 0720e2a6fb5038d488b5a6c9f0836e58, type: 3}
       propertyPath: m_Name
       value: EnemySkeleton (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8170120569839652452, guid: 0720e2a6fb5038d488b5a6c9f0836e58, type: 3}
+      propertyPath: roomNumber
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31398,9 +31406,9 @@ GameObject:
   - component: {fileID: 1719339806}
   - component: {fileID: 1719339805}
   - component: {fileID: 1719339804}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PlatformTilemap3
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38743,6 +38751,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EnemySkeleton (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8170120569839652452, guid: 0720e2a6fb5038d488b5a6c9f0836e58, type: 3}
+      propertyPath: roomNumber
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38778,7 +38790,7 @@ Transform:
   m_GameObject: {fileID: 2117876868}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -29.8, y: -1.7, z: 0}
+  m_LocalPosition: {x: 73.17, y: -1.7, z: 0}
   m_LocalScale: {x: 0.30384746, y: 0.30384746, z: 0.30384746}
   m_ConstrainProportionsScale: 0
   m_Children:
