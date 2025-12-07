@@ -2,12 +2,21 @@ using UnityEngine;
 
 public class RoomManager : MonoBehaviour
 {
+    public enum DoorDirection
+    {
+        Up,
+        Down,
+        Left,
+        Right
+    }
+
     [System.Serializable]
     public class RoomDoor
     {
         public int roomNumber;
         public GameObject doorObject;
         public int enemiesRemaining;
+        public DoorDirection direction = DoorDirection.Up;
     }
 
     public RoomDoor[] doors;
@@ -62,26 +71,46 @@ public class RoomManager : MonoBehaviour
                 AudioManager.instance.PlayDoorOpen();
 
             // Animate door opening
-            StartCoroutine(OpenDoorAnimation(door.doorObject));
+            StartCoroutine(OpenDoorAnimation(door));
         }
     }
 
-    System.Collections.IEnumerator OpenDoorAnimation(GameObject door)
+    System.Collections.IEnumerator OpenDoorAnimation(RoomDoor door)
     {
         float duration = 1f;
         float elapsed = 0f;
-        Vector3 startPos = door.transform.position;
-        Vector3 endPos = startPos + Vector3.up * 3f; // Move door up
+        float distance = 3f;
+        Vector3 startPos = door.doorObject.transform.position;
+
+        // Determine movement direction based on door direction
+        Vector3 movementVector = Vector3.zero;
+        switch (door.direction)
+        {
+            case DoorDirection.Up:
+                movementVector = Vector3.up * distance;
+                break;
+            case DoorDirection.Down:
+                movementVector = Vector3.down * distance;
+                break;
+            case DoorDirection.Left:
+                movementVector = Vector3.left * distance;
+                break;
+            case DoorDirection.Right:
+                movementVector = Vector3.right * distance;
+                break;
+        }
+
+        Vector3 endPos = startPos + movementVector;
 
         while (elapsed < duration)
         {
             elapsed += Time.deltaTime;
-            door.transform.position = Vector3.Lerp(startPos, endPos, elapsed / duration);
+            door.doorObject.transform.position = Vector3.Lerp(startPos, endPos, elapsed / duration);
             yield return null;
         }
 
         // Disable collider after opening
-        Collider2D doorCollider = door.GetComponent<Collider2D>();
+        Collider2D doorCollider = door.doorObject.GetComponent<Collider2D>();
         if (doorCollider != null)
         {
             doorCollider.enabled = false;
