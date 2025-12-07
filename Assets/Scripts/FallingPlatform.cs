@@ -12,7 +12,7 @@ public class FallingPlatform : MonoBehaviour
     
     [Header("Respawn Settings")]
     public bool respawnAfterFall = true;
-    public float respawnDelay = 3f;
+    public float respawnDelay = 1f;
     
     [Header("Visual Feedback")]
     public Color warningColor = Color.red;
@@ -103,7 +103,7 @@ public class FallingPlatform : MonoBehaviour
         }
         else
         {
-            Destroy(gameObject, 5f); // Destroy after falling off screen
+            Destroy(gameObject, 0.5f); // Destroy after falling off screen
         }
     }
     
