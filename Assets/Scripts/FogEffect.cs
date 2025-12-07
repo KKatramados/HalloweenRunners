@@ -9,6 +9,8 @@ public class FogEffect : MonoBehaviour
     public float fogSpeed = 0.5f; // How fast fog moves
     public float fogHeight = 5f; // Height of fog area
     public float fogWidth = 20f; // Width of fog area
+    public float startSizeMin = 0.4f; // start Size Min
+    public float startSizeMax = 1f; // start Size Max
 
     [Header("Fog Behavior")]
     public Vector2 windDirection = new Vector2(1f, 0.2f); // Fog drift direction
@@ -31,18 +33,19 @@ public class FogEffect : MonoBehaviour
         GameObject fogObject = new GameObject("FogParticles");
         fogObject.transform.SetParent(transform);
         fogObject.transform.localPosition = Vector3.zero;
+        
 
         fogParticles = fogObject.AddComponent<ParticleSystem>();
 
         // Main module
         var main = fogParticles.main;
-        main.startLifetime = new ParticleSystem.MinMaxCurve(10f, 15f);
+        main.startLifetime = new ParticleSystem.MinMaxCurve(16f, 21f);
         main.startSpeed = new ParticleSystem.MinMaxCurve(fogSpeed * 0.5f, fogSpeed);
-        main.startSize = new ParticleSystem.MinMaxCurve(2f, 5f);
+        main.startSize = new ParticleSystem.MinMaxCurve(startSizeMin, startSizeMax);
         main.startRotation = new ParticleSystem.MinMaxCurve(0, 360f * Mathf.Deg2Rad);
         main.startColor = fogColor;
         main.simulationSpace = ParticleSystemSimulationSpace.World;
-        main.maxParticles = 100;
+        main.maxParticles = 200;
         main.loop = true;
         main.playOnAwake = true;
 
@@ -98,7 +101,7 @@ public class FogEffect : MonoBehaviour
         // Renderer settings (Unity 6 compatible)
         var renderer = fogParticles.GetComponent<ParticleSystemRenderer>();
         renderer.renderMode = ParticleSystemRenderMode.Billboard;
-        renderer.sortingLayerName = "Background";
+        renderer.sortingLayerName = "Player";
         renderer.sortingOrder = 3; // Behind most objects
 
         // Use sprite if provided, otherwise use default material
