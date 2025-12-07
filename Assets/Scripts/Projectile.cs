@@ -42,14 +42,58 @@ public class Projectile : MonoBehaviour
             Enemy enemy = other.GetComponent<Enemy>();
             if (enemy != null)
             {
-                enemy.TakeDamage(damage);
+                // Check for critical hit
+                bool isCritical = DamageTextManager.instance != null && DamageTextManager.instance.RollForCritical();
+                int actualDamage = isCritical ? Mathf.RoundToInt(damage * 1.5f) : damage;
+
+                enemy.TakeDamage(actualDamage);
+
+                // Show damage text
+                if (DamageTextManager.instance != null)
+                {
+                    DamageTextManager.instance.ShowDamageWithCritical(damage, other.transform.position, isCritical);
+                }
+
                 Destroy(gameObject);
+                return;
             }
-            SkeletonBoss boss = other.GetComponent<SkeletonBoss>();
-            if (boss != null)
+
+            SkeletonBoss skeletonBoss = other.GetComponent<SkeletonBoss>();
+            if (skeletonBoss != null)
             {
-                boss.TakeDamage(damage);
+                // Check for critical hit
+                bool isCritical = DamageTextManager.instance != null && DamageTextManager.instance.RollForCritical();
+                int actualDamage = isCritical ? Mathf.RoundToInt(damage * 1.5f) : damage;
+
+                skeletonBoss.TakeDamage(actualDamage);
+
+                // Show damage text
+                if (DamageTextManager.instance != null)
+                {
+                    DamageTextManager.instance.ShowDamageWithCritical(damage, other.transform.position, isCritical);
+                }
+
                 Destroy(gameObject);
+                return;
+            }
+
+            DragonBoss dragonBoss = other.GetComponent<DragonBoss>();
+            if (dragonBoss != null)
+            {
+                // Check for critical hit
+                bool isCritical = DamageTextManager.instance != null && DamageTextManager.instance.RollForCritical();
+                int actualDamage = isCritical ? Mathf.RoundToInt(damage * 1.5f) : damage;
+
+                dragonBoss.TakeDamage(actualDamage);
+
+                // Show damage text
+                if (DamageTextManager.instance != null)
+                {
+                    DamageTextManager.instance.ShowDamageWithCritical(damage, other.transform.position, isCritical);
+                }
+
+                Destroy(gameObject);
+                return;
             }
         }
         else if (other.CompareTag("Ground"))

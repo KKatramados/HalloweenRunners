@@ -382,9 +382,9 @@ public class GameManager : MonoBehaviour
 
     public void BossDefeated()
     {
-        if (isGameOver) return;
-
-        isGameOver = true;
+        // if (isGameOver) return;
+        //
+        // isGameOver = true;
 
         // AUDIO: Victory music already played in boss Die() method
         Debug.Log("Boss Defeated! You Win!");

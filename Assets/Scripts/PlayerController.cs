@@ -623,6 +623,12 @@ public class PlayerController : MonoBehaviour
         currentHealth -= damage;
         if (currentHealth < 0) currentHealth = 0;
 
+        // Show damage text
+        if (DamageTextManager.instance != null)
+        {
+            DamageTextManager.instance.ShowDamageWithCritical(damage, transform.position, false);
+        }
+
         if (AudioManager.instance != null)
             AudioManager.instance.PlayHurt();
 
