@@ -294,7 +294,7 @@ public class SkeletonBoss : MonoBehaviour
             }
         }
 
-        GameManager.instance.BossDefeated();
+        // GameManager.instance.BossDefeated();
         // Destroy after animation plays
         // Destroy(gameObject, 3f);
     }
