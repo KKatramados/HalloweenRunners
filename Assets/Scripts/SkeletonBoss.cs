@@ -44,8 +44,8 @@ public class SkeletonBoss : MonoBehaviour
         // Cache animation hashes
         walkHash = Animator.StringToHash("Walk");
         attackHash = Animator.StringToHash("Attack");
-        getHitHash = Animator.StringToHash("GetHit");
-        deathHash = Animator.StringToHash("DeathSkeleton");
+        getHitHash = Animator.StringToHash("Get Hit");
+        deathHash = Animator.StringToHash("Death Skeleton");
 
         // Register with room if assigned
         if (roomNumber > 0)
@@ -296,7 +296,7 @@ public class SkeletonBoss : MonoBehaviour
 
         GameManager.instance.BossDefeated();
         // Destroy after animation plays
-        Destroy(gameObject, 3f);
+        // Destroy(gameObject, 3f);
     }
 
     void OnCollisionStay2D(Collision2D collision)

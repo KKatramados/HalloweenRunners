@@ -460,7 +460,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
-  health: 2
+  health: 4
   damage: 1
   roomNumber: 0
   isCandyEnemy: 1
