@@ -411,5 +411,7 @@ public enum ItemRarity
     Uncommon,
     Rare,
     Epic,
-    Legendary
+    Legendary,
+    Legacy,
+    Basic
 }

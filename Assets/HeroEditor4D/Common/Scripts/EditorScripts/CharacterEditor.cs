@@ -9,7 +9,6 @@ using Assets.HeroEditor4D.Common.Scripts.Data;
 using Assets.HeroEditor4D.Common.Scripts.Enums;
 using Assets.HeroEditor4D.InventorySystem.Scripts.Data;
 using Assets.HeroEditor4D.InventorySystem.Scripts.Elements;
-using Assets.HeroEditor4D.Common.SimpleColorPicker.Scripts;
 using Assets.HeroEditor4D.InventorySystem.Scripts;
 using Assets.HeroEditor4D.InventorySystem.Scripts.Enums;
 using Newtonsoft.Json;

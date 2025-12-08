@@ -75,12 +75,9 @@ namespace Assets.HeroEditor4D.InventorySystem.Scripts
 
         public void RegisterCallbacks()
         {
-            var inputManager = InventoryInputManager.Instance;
-            inputManager.OnLeftClick += SelectItem;
-            inputManager.OnRightClick += QuickAction;
-            inputManager.OnDoubleClick += QuickAction;
+            InventoryItem.OnLeftClick = SelectItem;
+            InventoryItem.OnRightClick = InventoryItem.OnDoubleClick = QuickAction;
         }
-
 
         private void QuickAction(Item item)
         {
