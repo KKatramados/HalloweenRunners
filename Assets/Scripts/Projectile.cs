@@ -76,25 +76,6 @@ public class Projectile : MonoBehaviour
                 Destroy(gameObject);
                 return;
             }
-
-            DragonBoss dragonBoss = other.GetComponent<DragonBoss>();
-            if (dragonBoss != null)
-            {
-                // Check for critical hit
-                bool isCritical = DamageTextManager.instance != null && DamageTextManager.instance.RollForCritical();
-                int actualDamage = isCritical ? Mathf.RoundToInt(damage * 1.5f) : damage;
-
-                dragonBoss.TakeDamage(actualDamage);
-
-                // Show damage text
-                if (DamageTextManager.instance != null)
-                {
-                    DamageTextManager.instance.ShowDamageWithCritical(damage, other.transform.position, isCritical);
-                }
-
-                Destroy(gameObject);
-                return;
-            }
         }
         else if (other.CompareTag("Ground"))
         {
