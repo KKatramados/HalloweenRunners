@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 17862582b1ea00843aa7a16a0fd9ea42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4077506023648410580
+    second: Goblin_2_Walk_Jab_Die_0
+  - first:
+      213: -6547088059372921032
+    second: Goblin_2_Walk_Jab_Die_1
+  - first:
+      213: 3966197368892131983
+    second: Goblin_2_Walk_Jab_Die_2
+  - first:
+      213: -4251887881373964845
+    second: Goblin_2_Walk_Jab_Die_3
+  - first:
+      213: -8167774749347869471
+    second: Goblin_2_Walk_Jab_Die_4
+  - first:
+      213: -956621560660380534
+    second: Goblin_2_Walk_Jab_Die_5
+  - first:
+      213: -8300121617422454179
+    second: Goblin_2_Walk_Jab_Die_6
+  - first:
+      213: 5468918622923505037
+    second: Goblin_2_Walk_Jab_Die_7
+  - first:
+      213: 9081043312066074433
+    second: Goblin_2_Walk_Jab_Die_8
+  - first:
+      213: -4456944634250436358
+    second: Goblin_2_Walk_Jab_Die_9
+  - first:
+      213: 7552314915055863015
+    second: Goblin_2_Walk_Jab_Die_10
+  - first:
+      213: 5596563159959318403
+    second: Goblin_2_Walk_Jab_Die_11
+  - first:
+      213: 1542366602743774795
+    second: Goblin_2_Walk_Jab_Die_12
+  - first:
+      213: -1650475485512180858
+    second: Goblin_2_Walk_Jab_Die_13
+  - first:
+      213: 5843746673183029718
+    second: Goblin_2_Walk_Jab_Die_14
+  - first:
+      213: -5645329294986372746
+    second: Goblin_2_Walk_Jab_Die_15
+  - first:
+      213: -5906348447260931440
+    second: Goblin_2_Walk_Jab_Die_16
+  - first:
+      213: -4499810606258108045
+    second: Goblin_2_Walk_Jab_Die_17
+  - first:
+      213: 1966253582801052048
+    second: Goblin_2_Walk_Jab_Die_18
+  - first:
+      213: 7119633732709440619
+    second: Goblin_2_Walk_Jab_Die_19
+  - first:
+      213: 5625361311852835737
+    second: Goblin_2_Walk_Jab_Die_20
+  - first:
+      213: 6029328295117042792
+    second: Goblin_2_Walk_Jab_Die_21
+  - first:
+      213: 1474522080857452480
+    second: Goblin_2_Walk_Jab_Die_22
+  - first:
+      213: 7720859524774566719
+    second: Goblin_2_Walk_Jab_Die_23
+  - first:
+      213: -5728087099244598985
+    second: Goblin_2_Walk_Jab_Die_24
+  - first:
+      213: -5636077669389104401
+    second: Goblin_2_Walk_Jab_Die_25
+  - first:
+      213: 7850928535270659182
+    second: Goblin_2_Walk_Jab_Die_26
+  - first:
+      213: -8899099132411857398
+    second: Goblin_2_Walk_Jab_Die_27
+  - first:
+      213: 8993320936031968145
+    second: Goblin_2_Walk_Jab_Die_28
+  - first:
+      213: 4083264003519974316
+    second: Goblin_2_Walk_Jab_Die_29
+  - first:
+      213: 1488965376276784042
+    second: Goblin_2_Walk_Jab_Die_30
+  - first:
+      213: -6035384383458362069
+    second: Goblin_2_Walk_Jab_Die_31
+  - first:
+      213: 8769405928246672234
+    second: Goblin_2_Walk_Jab_Die_32
+  - first:
+      213: -1571609573581346501
+    second: Goblin_2_Walk_Jab_Die_33
+  - first:
+      213: 6293026587641034886
+    second: Goblin_2_Walk_Jab_Die_34
+  - first:
+      213: 3838339935995938253
+    second: Goblin_2_Walk_Jab_Die_35
+  - first:
+      213: -2535878587599115901
+    second: Goblin_2_Walk_Jab_Die_36
+  - first:
+      213: -8316011225507243877
+    second: Goblin_2_Walk_Jab_Die_37
+  - first:
+      213: 5182287637301951833
+    second: Goblin_2_Walk_Jab_Die_38
+  - first:
+      213: 8245041428062137549
+    second: Goblin_2_Walk_Jab_Die_39
+  - first:
+      213: -8840397659044068596
+    second: Goblin_2_Walk_Jab_Die_40
+  - first:
+      213: 1689615952933724916
+    second: Goblin_2_Walk_Jab_Die_41
+  - first:
+      213: 9027465484550125798
+    second: Goblin_2_Walk_Jab_Die_42
+  - first:
+      213: 6231515859875953356
+    second: Goblin_2_Walk_Jab_Die_43
+  - first:
+      213: -3592559231371264897
+    second: Goblin_2_Walk_Jab_Die_44
+  - first:
+      213: -1894371841961546813
+    second: Goblin_2_Walk_Jab_Die_45
+  - first:
+      213: -7408619279535793840
+    second: Goblin_2_Walk_Jab_Die_46
+  - first:
+      213: 8918641112226239130
+    second: Goblin_2_Walk_Jab_Die_47
+  - first:
+      213: 5363104508778372761
+    second: Goblin_2_Walk_Jab_Die_48
+  - first:
+      213: 8952792274927448915
+    second: Goblin_2_Walk_Jab_Die_49
+  - first:
+      213: -3258306753255159492
+    second: Goblin_2_Walk_Jab_Die_50
+  - first:
+      213: 6774392977287941342
+    second: Goblin_2_Walk_Jab_Die_51
+  - first:
+      213: 4088561913702093938
+    second: Goblin_2_Walk_Jab_Die_52
+  - first:
+      213: -6293173207843968005
+    second: Goblin_2_Walk_Jab_Die_53
+  - first:
+      213: -4542893305582868430
+    second: Goblin_2_Walk_Jab_Die_54
+  - first:
+      213: -2943091476238034718
+    second: Goblin_2_Walk_Jab_Die_55
+  - first:
+      213: -6764626910849205286
+    second: Goblin_2_Walk_Jab_Die_56
+  - first:
+      213: 3752040099347931119
+    second: Goblin_2_Walk_Jab_Die_57
+  - first:
+      213: -1150780054799481210
+    second: Goblin_2_Walk_Jab_Die_58
+  - first:
+      213: 2455887658434208415
+    second: Goblin_2_Walk_Jab_Die_59
+  - first:
+      213: -3936568345151762428
+    second: Goblin_2_Walk_Jab_Die_60
+  - first:
+      213: -1014305637167499605
+    second: Goblin_2_Walk_Jab_Die_61
+  - first:
+      213: -1290708317313156943
+    second: Goblin_2_Walk_Jab_Die_62
+  - first:
+      213: -1937151147972116807
+    second: Goblin_2_Walk_Jab_Die_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_0
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1666
+        width: 126
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db341dff16369830800000000000000
+      internalID: 4077506023648410580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_1
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1665
+        width: 126
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f10e319121425a0800000000000000
+      internalID: -6547088059372921032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_2
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1665
+        width: 125
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a87e14e73ca0730800000000000000
+      internalID: 3966197368892131983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_3
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1664
+        width: 125
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5aae5df724ef4c0800000000000000
+      internalID: -4251887881373964845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_4
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1663
+        width: 125
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec07b3e32c36ae80800000000000000
+      internalID: -8167774749347869471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_5
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1663
+        width: 125
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84bb5c42c569b2f0800000000000000
+      internalID: -956621560660380534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_6
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1663
+        width: 124
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d527ef86d5b00dc80800000000000000
+      internalID: -8300121617422454179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_7
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1662
+        width: 124
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dbfd0138085eb40800000000000000
+      internalID: 5468918622923505037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_8
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 1662
+        width: 124
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14792a567c8560e70800000000000000
+      internalID: 9081043312066074433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_9
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 1663
+        width: 124
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af06be31870c522c0800000000000000
+      internalID: -4456944634250436358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_10
+      rect:
+        serializedVersion: 2
+        x: 5316
+        y: 1663
+        width: 125
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e40acfb6663fc860800000000000000
+      internalID: 7552314915055863015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_11
+      rect:
+        serializedVersion: 2
+        x: 5828
+        y: 1663
+        width: 125
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fa968ca8cfaad40800000000000000
+      internalID: 5596563159959318403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_12
+      rect:
+        serializedVersion: 2
+        x: 6340
+        y: 1664
+        width: 125
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ef7fdd046976510800000000000000
+      internalID: 1542366602743774795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_13
+      rect:
+        serializedVersion: 2
+        x: 6852
+        y: 1665
+        width: 125
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b5e8f5a455819e0800000000000000
+      internalID: -1650475485512180858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_14
+      rect:
+        serializedVersion: 2
+        x: 7364
+        y: 1665
+        width: 126
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9f17443a8291150800000000000000
+      internalID: 5843746673183029718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_15
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 1666
+        width: 126
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6791b3c9ae2c7a1b0800000000000000
+      internalID: -5645329294986372746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1136
+        width: 123
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a0551616f680ea0800000000000000
+      internalID: -5906348447260931440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_17
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1140
+        width: 124
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379437938167d81c0800000000000000
+      internalID: -4499810606258108045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_18
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1145
+        width: 125
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09122354739894b10800000000000000
+      internalID: 1966253582801052048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_19
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1153
+        width: 126
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cd80198250ec260800000000000000
+      internalID: 7119633732709440619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_20
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1163
+        width: 133
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993b6360f4c411e40800000000000000
+      internalID: 5625361311852835737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_21
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1170
+        width: 139
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864b9a0c32a7ca350800000000000000
+      internalID: 6029328295117042792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_22
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1170
+        width: 143
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf6afa250e867410800000000000000
+      internalID: 1474522080857452480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_23
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1171
+        width: 145
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b11e6b4d0062b60800000000000000
+      internalID: 7720859524774566719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_24
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 1171
+        width: 145
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7392707c12fb180b0800000000000000
+      internalID: -5728087099244598985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_25
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 1170
+        width: 143
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea0d8d8831a8c1b0800000000000000
+      internalID: -5636077669389104401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_26
+      rect:
+        serializedVersion: 2
+        x: 5316
+        y: 1170
+        width: 139
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6419c528e914fc60800000000000000
+      internalID: 7850928535270659182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_27
+      rect:
+        serializedVersion: 2
+        x: 5828
+        y: 1163
+        width: 133
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06ba9f0d7c008480800000000000000
+      internalID: -8899099132411857398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_28
+      rect:
+        serializedVersion: 2
+        x: 6340
+        y: 1153
+        width: 126
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bd44f1eb1becc70800000000000000
+      internalID: 8993320936031968145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_29
+      rect:
+        serializedVersion: 2
+        x: 6852
+        y: 1145
+        width: 122
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab82f52afaaaa830800000000000000
+      internalID: 4083264003519974316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_30
+      rect:
+        serializedVersion: 2
+        x: 7364
+        y: 1140
+        width: 123
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa365dfee1ed9a410800000000000000
+      internalID: 1488965376276784042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_31
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 1136
+        width: 123
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d360d41e10e3ca0800000000000000
+      internalID: -6035384383458362069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 642
+        width: 126
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bf85cba3033b970800000000000000
+      internalID: 8769405928246672234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_33
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 644
+        width: 125
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39a4196b65803ae0800000000000000
+      internalID: -1571609573581346501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_34
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 646
+        width: 123
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688be6ee652555750800000000000000
+      internalID: 6293026587641034886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_35
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 649
+        width: 123
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5cb3cd5d5844530800000000000000
+      internalID: 3838339935995938253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_36
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 652
+        width: 124
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a2a83cdfbeccd0800000000000000
+      internalID: -2535878587599115901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_37
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 655
+        width: 125
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98da7bb9d7979c80800000000000000
+      internalID: -8316011225507243877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_38
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 657
+        width: 126
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95df741362f2be740800000000000000
+      internalID: 5182287637301951833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_39
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 657
+        width: 127
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcce506ae754c6270800000000000000
+      internalID: 8245041428062137549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_40
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 657
+        width: 127
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03cb73ea29905580800000000000000
+      internalID: -8840397659044068596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_41
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 657
+        width: 130
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2a279d1c8b27710800000000000000
+      internalID: 1689615952933724916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_42
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 657
+        width: 142
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b5b45700084d70800000000000000
+      internalID: 9027465484550125798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_43
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 657
+        width: 160
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca7e1898aaca7650800000000000000
+      internalID: 6231515859875953356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_44
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 657
+        width: 167
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cb09bc96aa42ec0800000000000000
+      internalID: -3592559231371264897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_45
+      rect:
+        serializedVersion: 2
+        x: 6862
+        y: 657
+        width: 160
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb2167b8d6d5b5e0800000000000000
+      internalID: -1894371841961546813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_46
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 649
+        width: 142
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059982f840c4f2990800000000000000
+      internalID: -7408619279535793840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_47
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 642
+        width: 126
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92907da6d065cb70800000000000000
+      internalID: 8918641112226239130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 130
+        width: 126
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ed703c2239d6a40800000000000000
+      internalID: 5363104508778372761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_49
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 127
+        width: 125
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35379eed325be3c70800000000000000
+      internalID: 8952792274927448915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_50
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 124
+        width: 127
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3948fa654b28c2d0800000000000000
+      internalID: -3258306753255159492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_51
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 120
+        width: 128
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc0624458a730e50800000000000000
+      internalID: 6774392977287941342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_52
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 117
+        width: 129
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274976cf56d7db830800000000000000
+      internalID: 4088561913702093938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_53
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 113
+        width: 131
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb64746f482aa8a0800000000000000
+      internalID: -6293173207843968005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_54
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 110
+        width: 131
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ab3c9b9664f0c0800000000000000
+      internalID: -4542893305582868430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_55
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 105
+        width: 129
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e81a5145e90827d0800000000000000
+      internalID: -2943091476238034718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_56
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 101
+        width: 125
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbf8c44aa73f12a0800000000000000
+      internalID: -6764626910849205286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_57
+      rect:
+        serializedVersion: 2
+        x: 4751
+        y: 98
+        width: 133
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef97a8579ce11430800000000000000
+      internalID: 3752040099347931119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_58
+      rect:
+        serializedVersion: 2
+        x: 5247
+        y: 97
+        width: 154
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686821323ab9700f0800000000000000
+      internalID: -1150780054799481210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_59
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 98
+        width: 175
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92ac3140d0151220800000000000000
+      internalID: 2455887658434208415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_60
+      rect:
+        serializedVersion: 2
+        x: 6244
+        y: 102
+        width: 195
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4009e2962ff7e59c0800000000000000
+      internalID: -3936568345151762428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_61
+      rect:
+        serializedVersion: 2
+        x: 6746
+        y: 109
+        width: 211
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba674f2a5667ce1f0800000000000000
+      internalID: -1014305637167499605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_62
+      rect:
+        serializedVersion: 2
+        x: 7252
+        y: 113
+        width: 221
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b838e5bf9b761ee0800000000000000
+      internalID: -1290708317313156943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_2_Walk_Jab_Die_63
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 101
+        width: 228
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beb1ec5b4bdd15e0800000000000000
+      internalID: -1937151147972116807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Goblin_2_Walk_Jab_Die_0: 4077506023648410580
+      Goblin_2_Walk_Jab_Die_1: -6547088059372921032
+      Goblin_2_Walk_Jab_Die_10: 7552314915055863015
+      Goblin_2_Walk_Jab_Die_11: 5596563159959318403
+      Goblin_2_Walk_Jab_Die_12: 1542366602743774795
+      Goblin_2_Walk_Jab_Die_13: -1650475485512180858
+      Goblin_2_Walk_Jab_Die_14: 5843746673183029718
+      Goblin_2_Walk_Jab_Die_15: -5645329294986372746
+      Goblin_2_Walk_Jab_Die_16: -5906348447260931440
+      Goblin_2_Walk_Jab_Die_17: -4499810606258108045
+      Goblin_2_Walk_Jab_Die_18: 1966253582801052048
+      Goblin_2_Walk_Jab_Die_19: 7119633732709440619
+      Goblin_2_Walk_Jab_Die_2: 3966197368892131983
+      Goblin_2_Walk_Jab_Die_20: 5625361311852835737
+      Goblin_2_Walk_Jab_Die_21: 6029328295117042792
+      Goblin_2_Walk_Jab_Die_22: 1474522080857452480
+      Goblin_2_Walk_Jab_Die_23: 7720859524774566719
+      Goblin_2_Walk_Jab_Die_24: -5728087099244598985
+      Goblin_2_Walk_Jab_Die_25: -5636077669389104401
+      Goblin_2_Walk_Jab_Die_26: 7850928535270659182
+      Goblin_2_Walk_Jab_Die_27: -8899099132411857398
+      Goblin_2_Walk_Jab_Die_28: 8993320936031968145
+      Goblin_2_Walk_Jab_Die_29: 4083264003519974316
+      Goblin_2_Walk_Jab_Die_3: -4251887881373964845
+      Goblin_2_Walk_Jab_Die_30: 1488965376276784042
+      Goblin_2_Walk_Jab_Die_31: -6035384383458362069
+      Goblin_2_Walk_Jab_Die_32: 8769405928246672234
+      Goblin_2_Walk_Jab_Die_33: -1571609573581346501
+      Goblin_2_Walk_Jab_Die_34: 6293026587641034886
+      Goblin_2_Walk_Jab_Die_35: 3838339935995938253
+      Goblin_2_Walk_Jab_Die_36: -2535878587599115901
+      Goblin_2_Walk_Jab_Die_37: -8316011225507243877
+      Goblin_2_Walk_Jab_Die_38: 5182287637301951833
+      Goblin_2_Walk_Jab_Die_39: 8245041428062137549
+      Goblin_2_Walk_Jab_Die_4: -8167774749347869471
+      Goblin_2_Walk_Jab_Die_40: -8840397659044068596
+      Goblin_2_Walk_Jab_Die_41: 1689615952933724916
+      Goblin_2_Walk_Jab_Die_42: 9027465484550125798
+      Goblin_2_Walk_Jab_Die_43: 6231515859875953356
+      Goblin_2_Walk_Jab_Die_44: -3592559231371264897
+      Goblin_2_Walk_Jab_Die_45: -1894371841961546813
+      Goblin_2_Walk_Jab_Die_46: -7408619279535793840
+      Goblin_2_Walk_Jab_Die_47: 8918641112226239130
+      Goblin_2_Walk_Jab_Die_48: 5363104508778372761
+      Goblin_2_Walk_Jab_Die_49: 8952792274927448915
+      Goblin_2_Walk_Jab_Die_5: -956621560660380534
+      Goblin_2_Walk_Jab_Die_50: -3258306753255159492
+      Goblin_2_Walk_Jab_Die_51: 6774392977287941342
+      Goblin_2_Walk_Jab_Die_52: 4088561913702093938
+      Goblin_2_Walk_Jab_Die_53: -6293173207843968005
+      Goblin_2_Walk_Jab_Die_54: -4542893305582868430
+      Goblin_2_Walk_Jab_Die_55: -2943091476238034718
+      Goblin_2_Walk_Jab_Die_56: -6764626910849205286
+      Goblin_2_Walk_Jab_Die_57: 3752040099347931119
+      Goblin_2_Walk_Jab_Die_58: -1150780054799481210
+      Goblin_2_Walk_Jab_Die_59: 2455887658434208415
+      Goblin_2_Walk_Jab_Die_6: -8300121617422454179
+      Goblin_2_Walk_Jab_Die_60: -3936568345151762428
+      Goblin_2_Walk_Jab_Die_61: -1014305637167499605
+      Goblin_2_Walk_Jab_Die_62: -1290708317313156943
+      Goblin_2_Walk_Jab_Die_63: -1937151147972116807
+      Goblin_2_Walk_Jab_Die_7: 5468918622923505037
+      Goblin_2_Walk_Jab_Die_8: 9081043312066074433
+      Goblin_2_Walk_Jab_Die_9: -4456944634250436358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

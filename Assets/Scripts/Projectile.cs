@@ -37,9 +37,9 @@ public class Projectile : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Enemy"))
+        if (other.CompareTag("Enemy") )
         {
-            Enemy enemy = other.GetComponent<Enemy>();
+            var enemy = other.GetComponent<Enemy>();
             if (enemy != null)
             {
                 // Check for critical hit
